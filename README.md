@@ -60,24 +60,19 @@ pip install rich
 
 La herramienta está diseñada para ser "Drag & Drop" (arrastrar y soltar) en la terminal.
 
-    Descarga el archivo gif_compressor.py.
-
-    Abre tu terminal en la carpeta donde guardaste el script.
-
-    Ejecuta el comando maestro:
+Descarga el archivo gif_compressor.py.
+Abre tu terminal en la carpeta donde guardaste el script.
+Ejecuta el comando maestro:
 
 ```Bash
 
 python gif_compressor.py
 ```
 
-    Sigue el asistente interactivo:
-
-        📂 Paso 1: El sistema te pedirá la ruta. Arrastra la carpeta que contiene tus GIFs a la terminal.
-
-        ⚖️ Paso 2: Escribe el peso objetivo (ejemplos válidos: 500kb, 1mb, 200000b).
-
-    Resultado: El sistema procesará el lote completo y mostrará una tabla de ingeniería con el análisis de reducción (Peso Original vs. Peso Final).
+Sigue el asistente interactivo
+📂 Paso 1: El sistema te pedirá la ruta. Arrastra la carpeta que contiene tus GIFs a la terminal
+⚖️ Paso 2: Escribe el peso objetivo (ejemplos válidos: 500kb, 1mb, 200000b).
+Resultado: El sistema procesará el lote completo y mostrará una tabla de ingeniería con el análisis de reducción (Peso Original vs. Peso Final).
 
 ## ⚙️ Configuración Avanzada
 
